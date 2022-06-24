@@ -28,6 +28,6 @@ a similar concept for use with GitLab CI. It's available both as a standalone
 I dabble with Golang after learning it to build a [better system for running
 WordPress's cron system](https://github.com/automattic/cron-control).
 
-* [Monitor and cull stale Digital Ocean droplets created by GitLab Runner](https://git.ethitter.com/debian/gitlab-runner-do-monitor)
+* [Monitor and cull stale DigitalOcean droplets created by GitLab Runner](https://git.ethitter.com/debian/gitlab-runner-do-monitor)
 * [Client for the dyndnsd daemon](https://git.ethitter.com/open-source/dyndnsd-client)
 * [Pipe logfile lines to Mattermost or Slack webhooks](https://git.ethitter.com/debian/eth-log-alerting)
